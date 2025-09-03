@@ -1,0 +1,14 @@
+{"ts": "2025-09-03T12:22:35.927711+00:00", "role": "user", "content": "Hello"}
+{"ts": "2025-09-03T12:22:37.029590+00:00", "role": "model", "content": "Hello! How can I help Shivam today?\n"}
+{"ts": "2025-09-03T12:23:06.198529+00:00", "role": "user", "content": "check calendar for Shivam"}
+{"ts": "2025-09-03T12:23:06.198987+00:00", "role": "model", "content": "\u2705 Shivam\u2019s availability: ['Wed 10AM', 'Thu 11AM']"}
+{"ts": "2025-09-03T12:23:17.791662+00:00", "role": "user", "content": "check calendar for Priya"}
+{"ts": "2025-09-03T12:23:17.792109+00:00", "role": "model", "content": "\u2705 Priya\u2019s availability: ['Thu 11AM', 'Fri 2PM']"}
+{"ts": "2025-09-03T12:23:59.187675+00:00", "role": "user", "content": "send email to Priya about a meeting"}
+{"ts": "2025-09-03T12:23:59.189460+00:00", "role": "model", "content": "\ud83d\udce7 Email sent to priya@example.com with subject 'Meeting' and body 'Let\u2019s connect at Thu 11AM.'"}
+{"ts": "2025-09-03T12:24:26.160033+00:00", "role": "user", "content": "send email to Shivam about a meeting"}
+{"ts": "2025-09-03T12:24:26.161947+00:00", "role": "model", "content": "\ud83d\udce7 Email sent to priya@example.com with subject 'Meeting' and body 'Let\u2019s connect at Thu 11AM.'"}
+{"ts": "2025-09-03T12:27:18.564207+00:00", "role": "user", "content": "send email to Shivam about a meeting"}
+{"ts": "2025-09-03T12:27:18.566267+00:00", "role": "model", "content": "\ud83d\udce7 Email sent to shivam@example.com with subject 'Meeting' and body 'Let\u2019s connect at Thu 11AM.'"}
+{"ts": "2025-09-03T12:28:44.568081+00:00", "role": "user", "content": "send email to Shivam about a meeting"}
+{"ts": "2025-09-03T12:28:44.570605+00:00", "role": "model", "content": "\ud83d\udce7 Email sent to raishivam313@gmail.com with subject 'Meeting' and body 'Let\u2019s connect at Thu 11AM.'"}
